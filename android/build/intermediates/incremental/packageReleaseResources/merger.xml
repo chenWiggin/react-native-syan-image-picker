@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res"/><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\build\generated\res\rs\release"/><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res"><file name="picture_list_sina_text_color" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\color\picture_list_sina_text_color.xml" qualifiers="" type="color"/><file name="picture_preview_sina_text_color" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\color\picture_preview_sina_text_color.xml" qualifiers="" type="color"/><file name="checkbox_num_selector" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\checkbox_num_selector.xml" qualifiers="" type="drawable"/><file name="checkbox_selector" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\checkbox_selector.xml" qualifiers="" type="drawable"/><file name="check_green" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\check_green.xml" qualifiers="" type="drawable"/><file name="custom_qq_cb" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\custom_qq_cb.xml" qualifiers="" type="drawable"/><file name="message_oval_orange" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\message_oval_orange.xml" qualifiers="" type="drawable"/><file name="message_oval_white" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\message_oval_white.xml" qualifiers="" type="drawable"/><file name="num_oval_blue" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\num_oval_blue.xml" qualifiers="" type="drawable"/><file name="num_oval_blue_def" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\num_oval_blue_def.xml" qualifiers="" type="drawable"/><file name="num_oval_orange" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\num_oval_orange.xml" qualifiers="" type="drawable"/><file name="select_cb" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable\select_cb.xml" qualifiers="" type="drawable"/><file name="addimg_1x" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xhdpi\addimg_1x.png" qualifiers="xhdpi-v4" type="drawable"/><file name="back2" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xhdpi\back2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="delet_zhaopian_1x" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xhdpi\delet_zhaopian_1x.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_minus" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xhdpi\ic_minus.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_plus" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xhdpi\ic_plus.png" qualifiers="xhdpi-v4" type="drawable"/><file name="play" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xhdpi\play.png" qualifiers="xhdpi-v4" type="drawable"/><file name="back" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xxhdpi\back.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="icon_check" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xxhdpi\icon_check.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="orange_arrow_down" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xxhdpi\orange_arrow_down.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="orange_arrow_up" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\drawable-xxhdpi\orange_arrow_up.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\values\colors.xml" qualifiers=""><color name="color_f6">#f6f6f6</color><color name="colorPrimaryDark">#303F9F</color><color name="color_c51">#f94c51</color><color name="bar_grey">#393a3e</color><color name="black">#000000</color><color name="divider">#B6B6B6</color><color name="blue">#7D7DFF</color><color name="color_green">#43c117</color><color name="color_fa">#fafafa</color><color name="colorPrimary">#3F51B5</color><color name="transparent">#00000000</color><color name="colorAccent">#FF4081</color><color name="white">#FFFFFF</color></file><file path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\values\styles.xml" qualifiers=""><style name="picture.QQ.style" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        
+        <item name="colorPrimary">@color/blue</item>
+        
+        <item name="colorPrimaryDark">@color/blue</item>
+        
+        <item name="picture.statusFontColor">false</item>
+        
+        <item name="picture.leftBack.icon">@drawable/picture_back</item>
+        
+        <item name="picture.arrow_down.icon">@drawable/arrow_down</item>
+        
+        <item name="picture.arrow_up.icon">@drawable/arrow_up</item>
+        
+        <item name="picture.title.textColor">@color/white</item>
+        
+        <item name="picture.right.textColor">@color/white</item>
+        
+        <item name="picture.checked.style">@drawable/checkbox_num_selector</item>
+        
+        <item name="picture.style.checkNumMode">true</item>
+        
+        <item name="picture.style.numComplete">false</item>
+        
+        <item name="picture.bottom.bg">@color/color_fa</item>
+        
+        <item name="picture.preview.textColor">@color/blue</item>
+        
+        <item name="picture.complete.textColor">@color/blue</item>
+        
+        <item name="picture.num.style">@drawable/num_oval_blue</item>
+        
+        <item name="picture.ac_preview.title.textColor">@color/white</item>
+        
+        <item name="picture.ac_preview.complete.textColor">@color/blue</item>
+        
+        <item name="picture.ac_preview.title.bg">@color/blue</item>
+        
+        <item name="picture.ac_preview.bottom.bg">@color/color_fa</item>
+        
+        <item name="picture.preview.leftBack.icon">@drawable/picture_back</item>
+        
+        <item name="picture.crop.toolbar.bg">@color/bar_grey</item>
+        
+        <item name="picture.crop.status.color">@color/bar_grey</item>
+        
+        <item name="picture.crop.title.color">@color/white</item>
+        
+        <item name="picture.folder_checked_dot">@drawable/orange_oval</item>
+    </style><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/bar_grey</item>
+        <item name="colorPrimaryDark">@color/bar_grey</item>
+        <item name="colorAccent">@color/bar_grey</item>
+    </style><style name="picture.Sina.style" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        
+        <item name="colorPrimary">@color/white</item>
+        
+        <item name="colorPrimaryDark">@color/white</item>
+        
+        <item name="picture.statusFontColor">true</item>
+        
+        <item name="picture.leftBack.icon">@drawable/back2</item>
+        
+        <item name="picture.arrow_down.icon">@drawable/orange_arrow_down</item>
+        
+        <item name="picture.arrow_up.icon">@drawable/orange_arrow_up</item>
+        
+        <item name="picture.title.textColor">@color/color_53</item>
+        
+        <item name="picture.right.textColor">@color/color_53</item>
+        
+        <item name="picture.checked.style">@drawable/picture_checkbox_selector</item>
+        
+        <item name="picture.style.checkNumMode">false</item>
+        
+        <item name="picture.style.numComplete">false</item>
+        
+        <item name="picture.bottom.bg">@color/color_fa</item>
+        
+        <item name="picture.preview.textColor">@color/picture_list_sina_text_color</item>
+        
+        <item name="picture.complete.textColor">@color/picture_list_sina_text_color</item>
+        
+        <item name="picture.num.style">@drawable/num_oval_orange</item>
+        
+        <item name="picture.ac_preview.title.textColor">@color/color_53</item>
+        
+        <item name="picture.ac_preview.complete.textColor">@color/picture_list_sina_text_color
+        </item>
+        
+        <item name="picture.ac_preview.title.bg">@color/white</item>
+        
+        <item name="picture.ac_preview.bottom.bg">@color/color_fa</item>
+        
+        <item name="picture.preview.leftBack.icon">@drawable/back2</item>
+        
+        <item name="picture.crop.toolbar.bg">@color/bar_grey</item>
+        
+        <item name="picture.crop.status.color">@color/bar_grey</item>
+        
+        <item name="picture.crop.title.color">@color/white</item>
+        
+        <item name="picture.folder_checked_dot">@drawable/orange_oval</item>
+    </style><style name="picture.white.style" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        
+        <item name="colorPrimary">@color/white</item>
+        
+        <item name="colorPrimaryDark">@color/white</item>
+        
+        <item name="picture.statusFontColor">true</item>
+        
+        <item name="picture.leftBack.icon">@drawable/back2</item>
+        
+        <item name="picture.arrow_down.icon">@drawable/orange_arrow_down</item>
+        
+        <item name="picture.arrow_up.icon">@drawable/orange_arrow_up</item>
+        
+        <item name="picture.title.textColor">@color/black</item>
+        
+        <item name="picture.right.textColor">@color/black</item>
+        
+        <item name="picture.checked.style">@drawable/picture_checkbox_selector</item>
+        
+        <item name="picture.style.checkNumMode">false</item>
+        
+        <item name="picture.style.numComplete">true</item>
+        
+        <item name="picture.bottom.bg">@color/color_fa</item>
+        
+        <item name="picture.preview.textColor">@color/tab_color_false</item>
+        
+        <item name="picture.complete.textColor">@color/tab_color_false</item>
+        
+        <item name="picture.num.style">@drawable/num_oval</item>
+        
+        <item name="picture.ac_preview.title.bg">@color/white</item>
+        
+        <item name="picture.ac_preview.title.textColor">@color/black</item>
+        
+        <item name="picture.ac_preview.complete.textColor">@color/tab_color_false</item>
+        
+        <item name="picture.ac_preview.bottom.bg">@color/color_fa</item>
+        
+        <item name="picture.preview.leftBack.icon">@drawable/back2</item>
+        
+        <item name="picture.crop.toolbar.bg">@color/bar_grey</item>
+        
+        <item name="picture.crop.status.color">@color/bar_grey</item>
+        
+        <item name="picture.crop.title.color">@color/white</item>
+        
+        <item name="picture.folder_checked_dot">@drawable/orange_oval</item>
+    </style></file><file name="file_paths" path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\main\res\xml\file_paths.xml" qualifiers="" type="xml"/></source><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\build\generated\res\rs\release"/><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\RN_Projects\inspector\node_modules\react-native-syan-image-picker\android\src\release\res"/></dataSet><mergedItems/></merger>

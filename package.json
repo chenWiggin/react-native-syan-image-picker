@@ -1,33 +1,35 @@
 {
-  "_from": "react-native-syan-image-picker",
+  "_args": [
+    [
+      "react-native-syan-image-picker@0.1.6",
+      "D:\\RN_Projects\\inspector"
+    ]
+  ],
+  "_from": "react-native-syan-image-picker@0.1.6",
   "_id": "react-native-syan-image-picker@0.1.6",
   "_inBundle": false,
   "_integrity": "sha1-05ecqgmcUSfOnbqz93ZZcklLEC4=",
   "_location": "/react-native-syan-image-picker",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "react-native-syan-image-picker",
+    "raw": "react-native-syan-image-picker@0.1.6",
     "name": "react-native-syan-image-picker",
     "escapedName": "react-native-syan-image-picker",
-    "rawSpec": "",
+    "rawSpec": "0.1.6",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.1.6"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "http://registry.npm.taobao.org/react-native-syan-image-picker/download/react-native-syan-image-picker-0.1.6.tgz",
-  "_shasum": "d3979caa099c5127ce9dbab3f7765972494b102e",
-  "_spec": "react-native-syan-image-picker",
+  "_spec": "0.1.6",
   "_where": "D:\\RN_Projects\\inspector",
   "author": {
     "name": "syan"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "React-Native 多图片选择 支持裁剪 压缩",
   "keywords": [
     "react-native",

@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_up.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.57.8\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\up_in.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\up_in.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_out.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.57.8\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\photo_anticipate_interpolator.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\photo_anticipate_interpolator.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_in.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.57.8\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.2.2\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\down_out.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\down_out.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.2.2\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\photo_album_dismiss.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\photo_album_dismiss.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_close.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\ucrop\\v2.2.2\\res\\anim\\ucrop_close.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\photo_overshoot_interpolator.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\photo_overshoot_interpolator.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\modal_out.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_in.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.57.8\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\modal_in.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\a5.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\a5.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\photo_album_show.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\photo_album_show.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_out.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.57.8\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\a3.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\a3.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.github.LuckSiege.PictureSelector\\picture_library\\v2.2.2\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_down.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.57.8\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "D:\\RN_Projects\\inspector\\node_modules\\react-native-syan-image-picker\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.1.1\\res\\anim\\abc_tooltip_exit.xml"
+    }
+]

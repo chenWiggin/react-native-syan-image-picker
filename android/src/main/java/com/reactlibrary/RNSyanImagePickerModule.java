@@ -65,7 +65,25 @@ public class RNSyanImagePickerModule extends ReactContextBaseJavaModule {
             localMedia.setPath(options.getArray("previewImages").getMap(i).getString("icon"));
             localMedias.add(localMedia);
         }
-        PictureSelector.create(currentActivity).externalPicturePreview(options.getInt("position"), localMedias);
+        int themeId;
+        switch (options.getInt("style")) {
+            case 0:
+                themeId = R.style.picture_default_style;
+                break;
+            case 1:
+                themeId = R.style.picture_white_style;
+                break;
+            case 2:
+                themeId = R.style.picture_QQ_style;
+                break;
+            case 3:
+                themeId = R.style.picture_Sina_style;
+                break;
+            default:
+                themeId = R.style.picture_default_style;
+                break;
+        }
+        PictureSelector.create(currentActivity).themeStyle(themeId).openExternalPreview(options.getInt("position"), localMedias);
     }
 
     @ReactMethod

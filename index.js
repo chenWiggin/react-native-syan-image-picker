@@ -23,6 +23,7 @@ const defaultOptions = {
     showCropGrid: false,       // 是否隐藏裁剪区域网格，默认false
     quality: 90,               // 压缩质量
     enableBase64: false,       // 是否返回base64编码，默认不返回
+    style: 0                   // 查看图片样式  0：默认 1：白色风格 2：qq风格 3：新浪风格
 };
 
 export default {
@@ -32,6 +33,9 @@ export default {
      *
      * */
     showImagePreView(options) {
+        if (options.watchStyle) {
+            defaultOptions.style = options.watchStyle
+        }
         const optionObj = {
             ...defaultOptions,
             ...options
